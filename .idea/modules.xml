@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/symphony-simple-warehouse.iml" filepath="$PROJECT_DIR$/.idea/symphony-simple-warehouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../symfony-simple-warehouse/.idea/symfony-simple-warehouse.iml" filepath="$PROJECT_DIR$/../symfony-simple-warehouse/.idea/symfony-simple-warehouse.iml" />
     </modules>
   </component>
 </project>
